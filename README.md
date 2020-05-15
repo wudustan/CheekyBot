@@ -8,7 +8,7 @@ Download [NodeJS](https://nodejs.org/en/) and [Visual Studio Code](https://code.
 
 Clone github repository and navigate to CheekyBot folder.
 
-When setting up for the first time, install discord.js module by running `npm install discord.js --save`
+When setting up for the first time, install [discord.js](https://discord.js.org/#/) module by running `npm install discord.js --save`
 
 To activate the bot run `npm .`
 
