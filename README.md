@@ -4,9 +4,9 @@ A very basic discord bot
 # Installation Instructions
 Download [NodeJS](https://nodejs.org/en/) and [Visual Studio Code](https://code.visualstudio.com/)
 
-Clone github repository. 
+Clone github repository and navigate to CheekyBot folder.
 
-In `CheekyBot/`, run `npm install discord.js --save`
+When setting up for the first time, install discord.js module by running `npm install discord.js --save`
 
 To activate the bot, in `CheekyBot/` run `npm .`
 
